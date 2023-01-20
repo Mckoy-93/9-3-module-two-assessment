@@ -1,3 +1,5 @@
+
+
 body{
     background-color: lavender;
     font-family: monospace;
@@ -7,7 +9,7 @@ header{
     width: 75%;
     background-color: skyblue;
 }
+#reviews @media screen and (max-width: 500px) { 
+ display: none;
 
- #reviews @media screen and (max-width: 500px) { */
-    display: none;
-} */
+ } 
